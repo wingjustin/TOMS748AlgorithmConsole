@@ -7,7 +7,7 @@
 
 以上算法若果出現估值超出[a,b]區間或除零等壞情況,需要更換算法
 
-視情況更換算法加速並保證收斂
+每次迭代視情況更換算法加速並保證收斂
 
 references:
 * 1. boost.org, \boost\math\tools\toms748_solve.hpp
