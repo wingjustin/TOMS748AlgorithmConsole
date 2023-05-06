@@ -1,6 +1,8 @@
 # TOMS748AlgorithmConsole
  How to Find a root of a function using TOMS748 Algorithm
 
+不需對連續函數求導的求根算法, 要求初始區間a b 正負相反
+
 主要有4種算法, 二分法, 割線法, 牛頓二次插值 和 逆三次插值
 
 牛頓二次插值 需要3個不同點, 逆三次插值 需要4個不同點
