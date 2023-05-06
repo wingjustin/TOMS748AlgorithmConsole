@@ -2,7 +2,9 @@
  How to Find a root of a function using TOMS748 Algorithm
 
 主要有4種算法, 二分法, 割線法, 牛頓二次插值 和 逆三次插值
+
 牛頓二次插值 需要3個不同點, 逆三次插值 需要4個不同點
+
 視情況更換算法加速收斂
 
 references:
