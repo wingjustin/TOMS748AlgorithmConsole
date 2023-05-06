@@ -5,7 +5,7 @@
 
 牛頓二次插值 需要3個不同點, 逆三次插值 需要4個不同點
 
-視情況更換算法加速收斂
+視情況更換算法加速並保證收斂
 
 references:
 * 1. boost.org, \boost\math\tools\toms748_solve.hpp
