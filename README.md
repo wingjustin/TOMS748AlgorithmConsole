@@ -13,7 +13,7 @@
 <br><br>
 每次迭代視情況更換算法加速並保證收斂
 <br><br>
-<div>references:</div>
+<div>References:</div>
 <ul>
 <li>1. boost.org, \boost\math\tools\toms748_solve.hpp</li>
 <li>2. document : Alefeld, Potra and Shi: 1995 Algorithm 748 Enclosing Zeros of Continuous Functions</li>
