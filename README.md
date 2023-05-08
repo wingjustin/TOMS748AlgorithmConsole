@@ -1,5 +1,5 @@
 # TOMS748AlgorithmConsole
- <h3>How to Find a root of a function using TOMS748 Algorithm</h3>
+ <h3>Find a root of a function using TOMS748 Algorithm</h3>
 
 <p>
 不需對連續函數求導的求根算法, 要求初始區間a b 正負相反
